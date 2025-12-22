@@ -54,11 +54,23 @@ Visualizing the hypergraph structure at $t=1500$. Note the emergence of clusters
 
 <br>
 
-#### Figure 2: Dimensionality Stabilization
+#### Figure 2: Tracks of 3000 Steps
+
+![Plots](Figure.png)
+*Fig 2. Evolution of Time. Note the stabilization after $t=1000$.*
+
+#### Figure 3: Dimensionality Stabilization
 The plot below tracks the average degree $\langle k \rangle$ over time. The plateau indicates the emergence of stable physical laws.
 
-![Degree Distribution Plot](Figure.png)
-*Fig 2. Evolution of connectivity. Note the stabilization after $t=1000$.*
+![Degree Distribution Plot](1766442096010.jpg)
+
+<br>
+
+#### Figure 4: Phase Transition
+The system underwent a transition at $t \approx 400$, marking the onset of the "inflationary" epoch.
+
+![Phase Transition Plot](1766442100057.jpg)
+
 
 ---
 
