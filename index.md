@@ -1,4 +1,4 @@
-# HCSN Research Group
+# The HCSN Project 
 
 **Welcome.** This is the central research hub for the **Holographic Computational Spin-Network (HCSN)**.
 
