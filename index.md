@@ -31,3 +31,15 @@ We are currently running Python simulations to model hypergraph evolution and ve
 
 ### Contact & Code
 * **GitHub Repository:** [HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
+</script>
