@@ -93,6 +93,12 @@ We are currently running Python simulations to model hypergraph evolution and ve
 ### Contact & Code
 * **GitHub Repository:** [HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)
 
+### 📝 Citation
+Please cite this project as:
+*QWERT, Q. (2025). The Holographic Computational Spin-Network (HCSN): Theory & Simulation (Version 1.0.0) [Computer software]. [https://github.com/hcsn-theory/HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)*
+
+
+---
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
