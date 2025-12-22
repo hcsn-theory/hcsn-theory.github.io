@@ -15,6 +15,8 @@ The complete theoretical foundation, including derivations of Einstein's equatio
 
 [**Read the Theory →**](https://hcsn-theory.github.io/HCSN-Theory/)
 
+[**Read the Full Documentation →**](https://hcsn-theory.github.io/HCSN-Theory/docs/HCSN-Theory.md)
+
 ---
 
 ## 💻 Simulation & Results
