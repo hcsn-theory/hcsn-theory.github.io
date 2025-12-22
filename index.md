@@ -49,7 +49,7 @@ The system exhibited a robust expansion phase. Unlike fixed-topology models, thi
 #### Figure 1: Network Topology Growth
 Visualizing the hypergraph structure at $t=1500$. Note the emergence of clusters (high-connectivity regions) representing "matter" density.
 
-![Network Topology Graph](path/to/your-topology-image.png)
+![Network Topology Graph](/Topologica-defects.jpg)
 *Fig 1. Hypergraph snapshot showing emergent clusters.*
 
 <br>
@@ -57,7 +57,7 @@ Visualizing the hypergraph structure at $t=1500$. Note the emergence of clusters
 #### Figure 2: Dimensionality Stabilization
 The plot below tracks the average degree $\langle k \rangle$ over time. The plateau indicates the emergence of stable physical laws.
 
-![Degree Distribution Plot](path/to/your-plot-image.png)
+![Degree Distribution Plot](Figure.png)
 *Fig 2. Evolution of connectivity. Note the stabilization after $t=1000$.*
 
 ---
@@ -67,7 +67,7 @@ The plot below tracks the average degree $\langle k \rangle$ over time. The plat
 * **Dimensional Emergence:** The graph diameter ($L$) grew linearly with time, while volume ($V$) grew polynomially, consistent with a finite-dimensional emergent space.
 * **Order Parameter ($\Omega$):** The order parameter $\Omega$ rose to $\approx 0.71$, indicating strong causal coherence in the final state.
 
-[**📂 View Raw Simulation Logs**](https://github.com/hcsn-theory/HCSN-Theory/blob/main/simulation.log.txt)
+[**📂 View Raw Simulation Logs**](https://github.com/hcsn-theory/HCSN-Theory/blob/main/simulation.log)
 
 ---
 
