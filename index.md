@@ -25,10 +25,7 @@ We are currently running Python simulations to model hypergraph evolution and ve
 * **Expected Output:** Visualizations of graph connectivity and causal growth.
 * **Status:** Processing...
 
-*(Once your results are ready, we will paste the graphs and data here!)*
-
 ---
 
 ### Contact & Code
-* **GitHub Repository:** [github.com/hcsn-theory/HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)
-* 
+* **GitHub Repository:** [HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)
