@@ -1,4 +1,6 @@
-# HCSN Research Group
+# The HCSN Research Group
+
+[![DOI](https://zenodo.org/badge/1118466950.svg)](https://doi.org/10.5281/zenodo.18025757)
 
 **Welcome.** This is the central research hub for the **Holographic Computational Spin-Network (HCSN)**.
 
