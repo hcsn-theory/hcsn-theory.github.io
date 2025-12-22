@@ -1,6 +1,7 @@
 # The HCSN Research Group
 
 [![DOI](https://zenodo.org/badge/1118466950.svg)](https://doi.org/10.5281/zenodo.18025757)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1698--5729-green.svg)](https://orcid.org/0009-0004-1698-5729)
 
 **Welcome.** This is the central research hub for the **Holographic Computational Spin-Network (HCSN)**.
 
@@ -94,6 +95,7 @@ We are currently running Python simulations to model hypergraph evolution and ve
 
 ### Contact & Code
 * **GitHub Repository:** [HCSN-Theory](https://github.com/hcsn-theory/HCSN-Theory)
+*  **Lead Researcher:** [The HCSN Research Group (ORCID)](https://orcid.org/0009-0004-1698-5729)
 
 ---
 
